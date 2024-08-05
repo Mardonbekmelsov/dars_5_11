@@ -1,5 +1,5 @@
 name: date_time_formatter_test
-description: A starting point for Dart libraries or applications.
+description: This package helps you to format datetime to String
 version: 1.0.0
 repository: https://github.com/Mardonbekmelsov/dars_5_11
 
