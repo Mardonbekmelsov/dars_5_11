@@ -1,6 +1,6 @@
 name: date_time_formatter_test
 description: The Date Time Formatter package is a simple and efficient utility for formatting dates and times in Dart. Whether you need to convert DateTime objects into readable date strings or extract specific components like hours and minutes, this package provides straightforward methods to handle common date and time formatting tasks.
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/Mardonbekmelsov/dars_5_11
 
 environment:
