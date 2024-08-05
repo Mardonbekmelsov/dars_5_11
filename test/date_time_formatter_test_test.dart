@@ -1,4 +1,4 @@
-import 'package:date_time_format/date_time_format.dart';
+import 'package:date_time_formatter_test/date_time_formatter_test.dart';
 import 'package:test/test.dart';
 
 void main() {
